@@ -1,0 +1,9 @@
+INVOICE
+
+Vendor: Delta Industries Pvt. Ltd.
+Invoice Number: DELTA-2026-001
+Invoice Date: 09 October 2026
+Amount: INR 62,500
+Due Date: 20 October 2026
+
+Payment Status: Pending

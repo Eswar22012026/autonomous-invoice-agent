@@ -1,0 +1,9 @@
+INVOICE
+
+Vendor: ABC Technologies Pvt. Ltd.
+Invoice Number: ABC-2026-000
+Invoice Date: 01 October 2026
+Amount: INR 40,000
+Due Date: 08 October 2026
+
+Payment Status: Pending

@@ -1,0 +1,14 @@
+INVOICE
+
+Vendor: Delta Industries Pvt. Ltd.
+Invoice Number: DELTA-2026-BAD
+Invoice Date: 10 October 2026
+Amount: INR 70,000
+Due Date: 20 October 2026
+
+Taxable Value: INR 55,000
+CGST @ 9%: INR 4,950
+SGST @ 9%: INR 4,950
+Grand Total: INR 70,000
+
+Payment Status: Pending
